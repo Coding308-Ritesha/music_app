@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+.note{
+    font-size: 15px;
+    font-family: 'Lobster', cursive;
+}
+
+.heading{
+    font-size: 18px;
+    width: 100%;
+    margin: 0px;
+}
+
+.play{
+    border-radius: 20px;
+    font-size: 23px;
+    color: brown;
+    border-color: blue;
+}
+
+.song_name{
+    font-family: 'Pacifico', cursive;
+    color: whitesmoke;
+}
+
+canvas{
+    border: 5px solid rgb(63, 63, 211);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px turquoise;
+    margin-top: 200px;
+}
